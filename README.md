@@ -45,8 +45,3 @@ HQApi -h
 ## Tor
 [How to setup Tor to bypass rate limits](https://github.com/apipy/HQApi/blob/master/tor.md)
 
-## Contact author
-* [@lapkioff](https://t.me/lapkioff) - Telegram
-* [@katantoff](https://vk.com/katantoff) - VK
-* Katant#5251 - Discord
-* katant.savelev@yandex.ru - Mail
